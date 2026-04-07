@@ -1,0 +1,21 @@
+*{
+    color: black; /* apply to all */ 
+}
+
+
+h2{
+    color: gold;
+}
+
+.class-chk{
+    color: peru;
+}
+
+#id-chk{
+    color:blue
+}
+
+a[alt = "youtube"]{
+    color:navy
+}
+

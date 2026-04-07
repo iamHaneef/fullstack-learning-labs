@@ -1,0 +1,21 @@
+p{
+    color: red;
+}
+
+.note{
+    font-size: 20px;
+    color: blueviolet;
+}
+
+#id-selector-demo{
+    color:green;
+}
+
+li[value="4"]
+{
+    color: blue;
+}
+
+*{
+    text-align: center;
+}

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Tacos</h1>
+<div id="taco-list"></div>
+
+<script>
+fetch("http://localhost:3000/tacos")
+  .then(res => res.json())
+  .then(data => {
+    console.log(data); // CHECK THIS
+
+    const list = document.getElementById("taco-list");
+
+    data.forEach(taco => {
+      const p = document.createElement("p");
+      p.textContent = taco.name + "$  " + taco.price;
+      list.appendChild(p);
+    });
+  })
+  .catch(err => console.log("ERROR:", err));
+</script>
+
+</body>
+</html>

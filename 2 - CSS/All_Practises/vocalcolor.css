@@ -1,0 +1,33 @@
+p[alt="red"]
+{
+    color :red;
+}
+
+p[alt="blue"]
+{
+    color :blue;
+}
+
+p[alt="orange"]
+{
+    color :orange;
+}
+
+p[alt="green"]
+{
+    color :green;
+}
+
+p[alt="yellow"]
+{
+    color :yellow;
+}
+
+p{
+    font-weight: normal;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
