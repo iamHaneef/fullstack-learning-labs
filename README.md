@@ -33,12 +33,16 @@ This repository documents my progress across core web development technologies, 
 
 ## 📂 Folder Structure
 
-| Module         | Description                             |
-| -------------- | --------------------------------------- |
-| 1 - HTML       | Core HTML structure and layout practice |
-| 2 - CSS        | Styling, layouts, Flexbox & Grid        |
-| 3 - JavaScript | DOM manipulation & form validation      |
-| 4 - Node.js    | Backend basics with Express APIs        |
+## 📂 Folder Structure
+
+| Module         | Description                                  |
+|---------------|----------------------------------------------|
+| 1 - HTML      | Core HTML structure and layout practice      |
+| 2 - CSS       | Styling, layouts, Flexbox & Grid             |
+| 3 - Bootstrap | Responsive design using Bootstrap framework  |
+| 4 - JavaScript| DOM manipulation & form validation           |
+| 5 - Node.js   | Backend basics & server setup                |
+| 6 - Express   | REST APIs and routing                        |
 
 ---
 
