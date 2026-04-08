@@ -42,7 +42,7 @@ This repository documents my progress across core web development technologies, 
 | 3 - Bootstrap | Responsive design using Bootstrap framework  |
 | 4 - JavaScript| DOM manipulation & form validation           |
 | 5 - Node.js   | Backend basics & server setup                |
-| 6 - Express   | REST APIs and routing                        |
+| 6 - Express   | REST APIs and routing                      |
 
 ---
 
