@@ -1,5 +1,5 @@
 {
-  "name": "node-js",
+  "name": "js",
   "version": "1.0.0",
   "description": "Node learn",
   "main": "index.js",
@@ -10,9 +10,12 @@
   "author": "Haneef",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
     "inquirer": "^13.3.2",
     "qr-image": "^3.2.0",
     "sillyname": "^0.1.0",
     "superheroes": "^4.0.0"
-  }
+  },
+  "keywords": []
 }
