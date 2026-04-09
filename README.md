@@ -96,7 +96,9 @@ Each module contains code written and tested during practice — not copied tuto
 ## 👨‍💻 Author
 
 **Muhamad Haneef J**  
-Full Stack Developer (In Progress)  
-Government College of Technology, Coimbatore
+Java Developer | Full Stack Learner  
+📍 Government College of Technology, Coimbatore
+
+<img width="800" height="200" alt="J Muhamad haneef" src="https://github.com/user-attachments/assets/146a1b4a-0a04-4aec-aa4f-7b7901f7ff00" />
 
 ---
