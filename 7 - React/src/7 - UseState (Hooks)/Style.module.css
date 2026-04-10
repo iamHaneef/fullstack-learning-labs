@@ -1,0 +1,33 @@
+.container {
+    border: none;
+    text-align: center;
+    background-color: rgb(197, 208, 209);
+    border-radius: 20px;
+    padding: 20px 10px;
+}
+
+.head {
+    font-size: 50px;
+    font-weight: 600;
+}
+
+span {
+    color: rgb(102, 36, 165);
+}
+
+.card {
+
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: 29px;
+}
+
+.button {
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: rgb(229, 128, 55);
+    color: white;
+}

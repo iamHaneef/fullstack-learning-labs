@@ -1,0 +1,21 @@
+import styles from "./Style.module.css"
+function Click() {
+
+    const handleClick = () =>{
+        console.log("You Clicked me");
+    }
+
+    const handleClick = (e) =>{
+        e.target.textContent = "HELLO"
+    }
+
+    return (
+        <>
+            <button onClick={handleClick}
+                className={styles.button}>Submit</button>
+        </>
+    )
+
+}
+
+export default Click;

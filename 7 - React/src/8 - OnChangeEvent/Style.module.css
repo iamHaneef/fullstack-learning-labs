@@ -1,0 +1,78 @@
+body {
+    background-color: rgb(91, 24, 80);
+
+}
+
+.container {
+    border: none;
+    text-align: center;
+    background-color: rgb(81, 12, 69);
+    border-radius: 20px;
+    padding: 20px 10px;
+}
+
+input {
+    border: none;
+    padding: 10px 10px;
+    border-radius: 20px;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 15px;
+    color: rgb(77, 19, 131);
+}
+
+textarea {
+    width: 250px;
+    height: 60px;
+    border-radius: 13px;
+    resize: none;
+    border: none;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 15px;
+    color: rgb(188, 15, 44);
+    position: relative;
+    bottom: 7px;
+}
+
+select {
+    padding: 10px 50px;
+    border: 1px solid black;
+}
+
+.cards {
+    border: none;
+    margin-top: 10px;
+    background-color: rgb(218, 222, 227);
+    border-radius: 20px;
+}
+
+.select {
+    border: none;
+    margin-top: 10px;
+    background-color: rgb(218, 222, 227);
+    border-radius: 20px;
+    padding: 20px 10px;
+}
+
+.radio {
+    border: none;
+    margin-top: 10px;
+    background-color: rgb(218, 222, 227);
+    border-radius: 20px;
+}
+
+.para1 {
+    color: rgb(188, 15, 44);
+}
+
+h3{
+    position: relative;
+    top:20px
+}
+
+.para2 {
+    color: rgb(188, 15, 44);
+}
