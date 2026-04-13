@@ -13,6 +13,7 @@ function UpdateArray() {
     const HandleRemoveItems = (Index) =>{
         setFoods(foods.filter((ele , currentIndex) => currentIndex !== Index))
     }
+    
     return (
         <div>
             <h2>List of Foods</h2>

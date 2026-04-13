@@ -30,6 +30,7 @@ function UpdateObject() {
             <input type="text" value={watch.make} onChange={HandleMakeChange}/>
 
             <br/><br/>
+            
             <input type="text" value={watch.model} onChange={HandleModelChange}/>
 
         </div>
