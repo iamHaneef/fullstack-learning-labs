@@ -14,7 +14,7 @@ function Click() {
 
     return (
         <>
-            <button onlick={(e) => handleClick(e)}
+            <button onClick={(e) => handleClick(e)}
                 className={styles.button}>Submit</button>
         </>
     )
