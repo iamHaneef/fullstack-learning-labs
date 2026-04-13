@@ -1,0 +1,38 @@
+body{
+
+}
+
+.colors{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top : 150px;
+    
+}
+.para{
+    padding: 20px 20px;
+    border-radius: 20px;
+    color: white;
+}
+.color_para{
+    font-size: 30px;
+}
+
+label{
+    position: relative;
+    top : 20px;
+    font-size: 20px;
+    font-weight: 600;
+    right : 10px;
+    
+}
+input{
+    position: relative;
+    left : 20px;
+    top : 33px;
+    width: 100px;
+    height: 100px;
+
+}

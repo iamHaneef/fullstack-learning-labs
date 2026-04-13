@@ -1,10 +1,10 @@
-import Change from "./8 - OnChangeEvent/Change"
+import UpdateObject from "./10 - Update/UpdateObject"
 function App() {
 
 
   return (
     <>
-      <Change />
+      <UpdateObject />
     </>
   )
 }
