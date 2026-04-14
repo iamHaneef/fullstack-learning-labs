@@ -1,10 +1,9 @@
-import ToDoList from "./11 - ToDoList/ToDoList"
+import DigitalClock from "./13 - DigitalClock ( Task )/DigitalClock"
 function App() {
-
 
   return (
     <>
-      <ToDoList />
+      <DigitalClock />   
     </>
   )
 }
