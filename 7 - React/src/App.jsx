@@ -1,9 +1,9 @@
-import DigitalClock from "./13 - DigitalClock ( Task )/DigitalClock"
+import StopWatch from "./16 - StopWatch ( Task )/StopWatch"
 function App() {
 
   return (
     <>
-      <DigitalClock />   
+      <StopWatch />   
     </>
   )
 }
