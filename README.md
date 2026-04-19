@@ -1,104 +1,48 @@
-# 🚀 Fullstack Learning Labs
+# Fullstack Learning Labs
 
-A structured, hands-on repository documenting my journey in full stack web development — focused on **building real applications, not just learning theory**.
+A structured, hands-on repository documenting full stack web development concepts through practical implementations.
 
 ---
 
 ## 📌 Overview
 
-This repository contains practical implementations of core web development concepts, progressing from frontend fundamentals to backend systems.
-
-Each module is built with a focus on:
-- Real-world usage
-- Clean code practices
-- Step-by-step understanding
+This repository contains progressive modules covering frontend and backend development.  
+Each module focuses on applying concepts through real code rather than theoretical learning.
 
 ---
 
 ## 🧠 Tech Stack
 
-### 🌐 Frontend
-- HTML5
-- CSS3 (Flexbox, Grid, Responsive Design)
-- JavaScript (DOM, Events, Validation)
-- React.js (Components, Props, State, Rendering)
+### Frontend
+- HTML5  
+- CSS3 (Flexbox, Grid, Responsive Design)  
+- JavaScript (DOM, Events, Validation)  
+- React.js (Components, State, Rendering)  
 
-### ⚙️ Backend
-- Node.js
-- Express.js
-- REST API Development
+### Backend
+- Node.js  
+- Express.js  
+- REST API Development  
 
 ---
 
 ## 📂 Modules
 
-| Module         | Description |
-|---------------|------------|
-| 1 - HTML      | Semantic structure, forms, accessibility basics |
-| 2 - CSS       | Layouts, Flexbox, Grid, responsive design |
-| 3 - Bootstrap | Responsive UI using Bootstrap components |
-| 4 - JavaScript| DOM manipulation, events, validation, ES6+ |
-| 5 - Node.js   | Backend fundamentals and environment setup |
-| 6 - Express   | REST APIs, routing, middleware |
-| 7 - React.js  | Components, Props, State, Events, Conditional Rendering, Lists, Forms |
+| Module | Description |
+|--------|------------|
+| 1 - HTML | Semantic structure, forms, basics |
+| 2 - CSS | Layouts, Flexbox, Grid, responsive design |
+| 3 - Bootstrap | UI components and responsive layouts |
+| 4 - JavaScript | DOM manipulation, events, validation |
+| 5 - Node.js | Backend fundamentals |
+| 6 - Express | Routing, middleware, APIs |
+| 7 - React | Components, state, rendering, forms |
 
 ---
 
-## ⚛️ React.js — Topics Covered
+## ▶️ How to Use
 
-- Functional Components  
-- Props & PropTypes  
-- State Management (`useState`)  
-- Event Handling  
-- Conditional Rendering  
-- Lists & Keys (`map`)  
-- Forms Handling  
-- Component Reusability  
+Navigate into any module and run files individually based on the technology used:
 
----
-
-## 🎯 Learning Goals
-
-- Build strong fundamentals in full stack development  
-- Understand how frontend and backend integrate  
-- Write clean, maintainable, scalable code  
-- Transition from learner to job-ready developer  
-
----
-
-## 📈 Progress
-
-- ✅ HTML — Completed  
-- ✅ CSS — Completed  
-- ✅ JavaScript — Completed  
-- ✅ Node.js + Express — Completed  
-- 🚧 React.js — In Progress  
-- ⏳ Next: Database Integration & Full Stack Projects  
-
----
-
-## 🚀 Future Improvements
-
-- Database integration (PostgreSQL / MongoDB)  
-- Authentication (JWT / OAuth)  
-- Full-stack projects  
-- Deployment  
-
----
-
-## 💡 Note
-
-This repository reflects **active learning and experimentation**.  
-Each module contains code written and tested during practice — not copied tutorials.
-
----
-
-## 👨‍💻 Author
-
-**Muhamad Haneef J**  
-Full Stack Developer  
-📍 Government College of Technology, Coimbatore
-
-<img width="800" height="200" alt="J Muhamad haneef" src="https://github.com/user-attachments/assets/146a1b4a-0a04-4aec-aa4f-7b7901f7ff00" />
-
----
+```bash
+node filename.js
