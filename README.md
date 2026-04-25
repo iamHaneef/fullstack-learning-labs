@@ -1,23 +1,19 @@
-# Fullstack Learning Labs
-
-A structured, hands-on repository documenting full stack web development concepts through practical implementations.
-
----
+# Fullstack Development Labs
 
 ## 📌 Overview
 
-This repository contains progressive modules covering frontend and backend development.  
-Each module focuses on applying concepts through real code rather than theoretical learning.
+A structured, hands-on repository covering full stack web development through practical implementations.  
+Each module focuses on applying concepts using real code across frontend and backend technologies.
 
 ---
 
-## 🧠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
 - HTML5  
 - CSS3 (Flexbox, Grid, Responsive Design)  
 - JavaScript (DOM, Events, Validation)  
-- React.js (Components, State, Rendering)  
+- React.js  
 
 ### Backend
 - Node.js  
@@ -30,19 +26,16 @@ Each module focuses on applying concepts through real code rather than theoretic
 
 | Module | Description |
 |--------|------------|
-| 1 - HTML | Semantic structure, forms, basics |
+| 1 - HTML | Semantic structure and forms |
 | 2 - CSS | Layouts, Flexbox, Grid, responsive design |
-| 3 - Bootstrap | UI components and responsive layouts |
-| 4 - JavaScript | DOM manipulation, events, validation |
+| 3 - Bootstrap | UI components and layouts |
+| 4 - JavaScript | DOM, events, validation |
 | 5 - Node.js | Backend fundamentals |
 | 6 - Express | Routing, middleware, APIs |
-| 7 - React | Components, state, rendering, forms |
+| 7 - React | Components, state, forms |
 
 ---
 
-## ▶️ How to Use
+## 🚀 How to Run
 
-Navigate into any module and run files individually based on the technology used:
-
-```bash
-node filename.js
+> Run files inside each module based on the technology used (e.g., `node filename.js` for backend files or open HTML files in a browser).
