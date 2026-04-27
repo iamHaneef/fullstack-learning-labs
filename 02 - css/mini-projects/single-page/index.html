@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            background-color: rgb(252, 252, 175);
+            
+            scrollbar-width: none;
+        }
+        header{
+            color: rgb(255, 138, 95);
+            font-style: italic;
+            font-size: 2em;
+            font-weight: 700;
+            font-family: sans-serif;
+            position: relative;
+            left:30px;
+            margin: 0;
+            padding: auto;
+           
+        }
+        .head{
+         height : 30vh;
+         color: black;
+         font-weight:bolder;
+         font-size: 40pt;
+         font-family: sans-serif;  
+         position: relative;
+         left:30px;
+         margin: 0;
+         padding: 0;
+         max-width: 500px;
+
+        display: flex;
+        grid-template-rows: 100px 100px;
+      
+        }
+        .head p span{
+            color: rgb(30, 30, 121);
+            
+        }
+        .both{
+            display:flex;
+        }
+        #firstbox{
+            flex:1;
+            display: flex;
+            grid-template-columns: 1fr 1fr;
+            grid-template-rows: 20px;
+            gap: 20px;
+            padding: 20px;
+            
+        }
+        #firstbox img{
+            width: 250px;
+            height: 170px;
+        }
+        
+       
+        #secondbox{
+            flex: 1;
+            display: flex;
+            grid-template-columns: 1fr 1fr;
+            grid-template-rows: 20px;
+            gap: 20px;
+            padding: 20px;
+            
+        }
+        #secondbox img{
+            width: 250px;
+            height: 170px;
+        }
+
+        @media (max-width:900px)
+        {
+            header{
+            color: rgb(255, 138, 95);
+            font-style: italic;
+            font-size: 2em;
+            font-weight: 700;
+            font-family: sans-serif;
+            position: relative;
+            left:10px;
+            margin: 0;
+            padding: auto;
+            
+        }
+        .head{
+         color: black;
+         font-weight:bolder;
+         font-size: 30pt;
+         font-family: sans-serif;  
+         width:220px;        
+      
+        }
+        .both{
+            position: relative;
+            top:30px;
+            display: grid;
+            grid-template-columns:1fr;
+        }
+        #firstbox{
+            
+            display: grid;
+            grid-template-columns: 1fr;
+            grid-template-rows: 150px 100px;
+            
+            
+            
+        }
+        #firstbox img{
+            width: 250px;
+            height: 170px;
+        }
+
+        #secondbox{
+            display: grid;
+            grid-template-columns: 1fr;
+            grid-template-rows: 150px 100px;
+            
+        }
+        #secondbox img{
+            width: 250px;
+            height: 170px;
+        }
+        }
+
+
+    </style>
+</head>
+<body>
+    <header>
+        <p>dev.com</p>
+    </header>
+    <section>
+        <div class="head">
+            <p>We are a <span>Creative</span> Design Agency</p>
+        </div>
+
+        <div class="both">
+            <div id="firstbox">
+                <img src="../../assets/rose.jpg">
+                <div id="rosepara">
+                    <h2 style="font-size: 20px; font-family: sans-serif; font-weight: bolder;">Beauty</h2>
+                    <p style="font-size: 15px; font-family: sans-serif; ">A rose is a type of shrub, which is known all over the world for its beauty. Roses come in a variety of colours such as yellow, pink, white and red. The rose is seen as a sign of harmony and balance.  </p>
+
+                </div>
+            </div>
+            <div id="secondbox">
+                <img src="../../assets/home.png">
+                <div id="rosepara">
+                    <h2 style="font-size: 20px; font-family: sans-serif; font-weight: bolder;">Construction</h2>
+                    <p style="font-size: 15px; font-family: sans-serif; ">The construction industry is a foundational economic sector, responsible for developing infrastructure and buildings using specialized materials and techniques while facing challenges in safety, sustainability, and management. </p>
+
+                </div>
+
+            </div>
+        </div>
+
+    </section>
+</body>
+</html>
